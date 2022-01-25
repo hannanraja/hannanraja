@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hannanraja
-- 👀 I’m interested in wordpress, php , javascripe, html, css , JQery
+- 👀 I’m interested in Wordpress, php , javascript, html, css , JQuery
 - 🌱 I’m currently learning ReactJS
 - 📫 Hannanraja1992@gmail.com         ✨<a href="https://wa.me/00923435545499">00923435545499 </a>
 
