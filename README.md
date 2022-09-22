@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannanraja
-- 👀 I’m interested in Wordpress, php , javascript, html, css , JQuery
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in ReactJS, NodeJS, ExpressJS, MangoDB, Wordpress, php , javascript, html, css
+- 🌱 I’m a junior MERN Stack developer for now.
 - 📫 Hannanraja1992@gmail.com         ✨<a href="https://wa.me/00923435545499">00923435545499 </a>
 
 <!---
