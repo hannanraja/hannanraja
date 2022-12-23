@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannanraja
 - 👀 I’m interested in ReactJS, NodeJS, ExpressJS, MangoDB, Wordpress, php , javascript, html, css
-- 🌱 I’m a MERN Stack developer for now.
+- 🌱 I’m a MERN Stack developer
 - 📫 Hannanraja1992@gmail.com         ✨<a href="https://wa.me/00923435545499">00923435545499 </a>
 
 <!---
